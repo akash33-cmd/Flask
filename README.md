@@ -1,11 +1,14 @@
-# Flask
-Web applications built with Python and Flask while learning backend development.
+# Flask Learning Journey
+My notes and practice code while learning Flask, the Python web framework.
 
-## Tech Stack
-Python, Flask, HTML, CSS, SQLite
+## What's Inside
+- Flask basics and project setup
+- Routes and views
+- Templates with HTML
+- Practice examples from each step
 
-## Run Locally
-1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Start the app: `python app.py`
-4. Open `http://127.0.0.1:5000` in your browser
+## Goal
+Learn backend development step by step and build real projects with Flask.
+
+## Progress
+Updated as I learn new topics.
